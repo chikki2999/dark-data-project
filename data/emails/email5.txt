@@ -1,0 +1,2 @@
+Email notifications not being received.
+Customer missed important alerts.

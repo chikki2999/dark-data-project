@@ -1,0 +1,2 @@
+App crashes repeatedly on startup.
+User cannot open application.

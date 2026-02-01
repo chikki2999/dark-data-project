@@ -1,0 +1,3 @@
+App crashes during checkout.
+User requests refund.
+Order not completed.

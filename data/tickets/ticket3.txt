@@ -1,0 +1,2 @@
+Payment deducted but order not confirmed.
+Customer requesting transaction review.

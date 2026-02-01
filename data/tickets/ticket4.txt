@@ -1,0 +1,2 @@
+Application extremely slow during peak hours.
+User unable to navigate between pages.

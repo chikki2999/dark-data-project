@@ -1,0 +1,3 @@
+Customer can't login after update.
+Requests password reset.
+Very frustrated.

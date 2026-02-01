@@ -1,0 +1,6 @@
+ERROR payment timeout
+WARN disk usage at 90 percent
+ERROR login authentication failed
+ERROR checkout service unavailable
+INFO nightly backup completed
+WARN memory usage high

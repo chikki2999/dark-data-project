@@ -1,0 +1,3 @@
+Payment page stuck on loading.
+Customer unable to complete checkout.
+Repeated attempts failed.

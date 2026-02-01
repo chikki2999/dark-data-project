@@ -1,0 +1,2 @@
+Account locked after multiple login attempts.
+Customer requesting urgent access restoration.

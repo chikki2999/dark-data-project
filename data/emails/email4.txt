@@ -1,0 +1,2 @@
+Mobile app freezes after latest update.
+User reports screen turning blank.
