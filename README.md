@@ -60,10 +60,10 @@ Software-related defects were the dominant driver of support volume, indicating 
 
 ## 📈 Sample Output
 
-### Python Analysis
+### Python Prototype (Small Sample)
 ![Top Issues](images/chart.png)
 
-### Power BI Dashboard
+### Power BI Dashboard (Real Dataset)
 ![Dashboard](images/category_dashboard.png)
 
 ---
