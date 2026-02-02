@@ -17,7 +17,7 @@ This project demonstrates how dark data can be transformed into clear, decision-
 
 ## 🛠 What I Built
 
-- Ingested and processed **40,000+ customer support tickets**
+- Ingested and processed **8,000+ customer support tickets**
 - Cleaned and standardized unstructured text using Python  
 - Removed noise (stopwords, symbols, placeholders)  
 - Performed keyword frequency analysis  
